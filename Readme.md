@@ -1,0 +1,1 @@
+Projeto para feito a fim de aprimorar e testar os conhecimento em Javascript. Todo o código foi feito com a ajuda do tutorial no youtube do canal Fernando Leonid.
